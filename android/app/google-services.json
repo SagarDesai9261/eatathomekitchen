@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "709555697915",
+    "project_id": "comeeathome-bd91c",
+    "storage_bucket": "comeeathome-bd91c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709555697915:android:a870198ac293f34806985e",
+        "android_client_info": {
+          "package_name": "com.comeeathome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpIB_9tewil3GD3SMMs9gaCZfwgMz8Ajg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709555697915:android:4e915157060bbb7e06985e",
+        "android_client_info": {
+          "package_name": "com.eatathomehost"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpIB_9tewil3GD3SMMs9gaCZfwgMz8Ajg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
